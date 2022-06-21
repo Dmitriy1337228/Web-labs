@@ -1,0 +1,45 @@
+.container {
+    border: 1px solid #30d5c8;
+	width: 400px;
+	height: 150px;	
+	position: fixed;
+    top: 50%;
+    left: 50%;
+    margin: -75px 0 0 -200px;
+	padding: 5px;
+	border-radius:5%;
+}
+.form-container {
+	margin: auto;
+	padding-left: 10px;
+	padding-right: 10px;
+	width: 250px;
+}
+.form-but {
+	position: absolute;
+    bottom: 0;
+    margin-bottom: 1px;
+    transform: translate(-50%, 0);
+    left: 50%;
+    width: 100px;
+    height: 25px;
+    border: 1px solid #e3dcdc;
+	border-radius: 7%;
+    text-align: center;
+}
+.container2 {
+    border: 1px solid #30d5c8;
+	width: 400px;
+	height: 220px;	
+	position: fixed;
+    top: 50%;
+    left: 50%;
+    margin: -110px 0 0 -200px;
+	padding: 0px 0 10px;
+	border-radius:5%;
+}
+.internal-cont {
+	width: 200px;
+	height: 200px;
+	margin: auto;
+}
