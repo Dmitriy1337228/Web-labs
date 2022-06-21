@@ -1,0 +1,6 @@
+canvas {
+  background: linear-gradient( #bbb, transparent 1px), linear-gradient( 90deg, #bbb, transparent 1px);
+  background-size: 30px 30px;
+  border: 1px solid black;
+  background-position: calc(center+30px) center;
+}
